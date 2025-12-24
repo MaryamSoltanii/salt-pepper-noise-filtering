@@ -25,5 +25,3 @@ The image is padded manually using **replicate padding**.
 3. Apply replicate padding manually
 4. Apply nonlinear filters with 3×3 kernels
 5. Compare filtering results visually
-
-## Files
